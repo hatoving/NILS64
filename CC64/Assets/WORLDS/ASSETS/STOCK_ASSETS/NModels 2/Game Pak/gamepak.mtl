@@ -1,0 +1,34 @@
+# Material file for gamepak.obj
+
+newmtl material_113
+	Ns 0
+	d 1
+	illum 2
+	Kd 1.0 1.0 1.0
+	Ks 0 0 0	Ka 0.2 0.2 0.2
+	map_Kd 72F0D3FD_c.png
+
+newmtl material_114
+	Ns 0
+	d 1
+	illum 2
+	Kd 1.0 1.0 1.0
+	Ks 0 0 0	Ka 0.2 0.2 0.2
+	map_Kd 454BB0E6_c.png
+
+newmtl material_115
+	Ns 0
+	d 1
+	illum 2
+	Kd 1.0 1.0 1.0
+	Ks 0 0 0	Ka 0.2 0.2 0.2
+	map_Kd 7B314DDB_c.png
+
+newmtl material_116
+	Ns 0
+	d 1
+	illum 2
+	Kd 1.0 1.0 1.0
+	Ks 0 0 0	Ka 0.2 0.2 0.2
+	map_Kd 761747C6_c.png
+

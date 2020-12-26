@@ -1,0 +1,21 @@
+ ___  ___  ________   ___  _________    ___    ___ 
+|\  \|\  \|\   ___  \|\  \|\___   ___\ |\  \  /  /| 
+\ \  \\\  \ \  \\ \  \ \  \|___ \  \_| \ \  \/  / / 
+ \ \  \\\  \ \  \\ \  \ \  \   \ \  \   \ \    / / 
+  \ \  \\\  \ \  \\ \  \ \  \   \ \  \   \/  /  /   
+   \ \_______\ \__\\ \__\ \__\   \ \__\__/  / /     (c) Opus Interactive 
+    \|_______|\|__| \|__|\|__|    \|__|\___/ /          1996-1999
+                                      \|___|/       v0.6
+
+Object-Orientated Development Tool and Game Engine
+for use with the Nintendo 64 and forthcoming Nintendo 64 DD systems
+
+-3D Real-time rendering
+-Improved draw distance
+-Enhanced frame rate
+-Custom shadow projection
+-Procedural generation
+-Integration with Adobe Photoshop 4.0 (tm)
+-Infinite possibilites!
+
+Developed by Opus Interactive

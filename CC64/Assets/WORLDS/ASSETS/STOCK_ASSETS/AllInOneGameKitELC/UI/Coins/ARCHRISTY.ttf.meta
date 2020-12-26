@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 6967d91b1e889904ea2227cb56c3543e
+timeCreated: 1460343588
+licenseType: Store
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: AR CHRISTY
+  fontNames:
+  - AR CHRISTY
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 7fe2a1eb9cd4a1943a8cd7221b5ab46f, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

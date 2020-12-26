@@ -1,0 +1,347 @@
+fileFormatVersion: 2
+guid: 0ca41b2098355834097fc756dab9f78f
+timeCreated: 1496899037
+licenseType: Store
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Body
+    100002: LEye
+    100004: Mouth
+    100006: REye
+    100008: //RootNode
+    100010: ScrewTop
+    100012: Shoes
+    100014: Body01
+    100016: LEye01
+    100018: LEye02
+    100020: Mouth01
+    100022: Bone02
+    100024: Bone03
+    100026: Bone04
+    100028: Bone05
+    100030: Bone06
+    100032: LFoot
+    100034: RFoot
+    100036: Root
+    100038: ScrewSpin
+    100040: Spin
+    100042: LEye 1
+    100044: REye 1
+    100046: LeftEye
+    100048: RightEye
+    100050: TopScrew
+    400000: Body
+    400002: LEye
+    400004: Mouth
+    400006: REye
+    400008: //RootNode
+    400010: ScrewTop
+    400012: Shoes
+    400014: Body01
+    400016: LEye01
+    400018: LEye02
+    400020: Mouth01
+    400022: Bone02
+    400024: Bone03
+    400026: Bone04
+    400028: Bone05
+    400030: Bone06
+    400032: LFoot
+    400034: RFoot
+    400036: Root
+    400038: ScrewSpin
+    400040: Spin
+    400042: LEye 1
+    400044: REye 1
+    400046: LeftEye
+    400048: RightEye
+    400050: TopScrew
+    2300000: Body
+    2300002: LEye
+    2300004: Mouth
+    2300006: REye
+    2300008: ScrewTop
+    2300010: Shoes
+    2300012: Body01
+    2300014: LEye01
+    2300016: LEye02
+    2300018: Mouth01
+    3300000: Body
+    3300002: LEye
+    3300004: Mouth
+    3300006: REye
+    3300008: ScrewTop
+    3300010: Shoes
+    3300012: Body01
+    3300014: LEye01
+    3300016: LEye02
+    3300018: Mouth01
+    4300000: ScrewTop
+    4300002: Body
+    4300004: REye
+    4300006: LEye
+    4300008: Mouth
+    4300010: Shoes
+    4300012: Body01
+    4300014: LEye01
+    4300016: LEye02
+    4300018: Mouth01
+    4300020: LEye
+    4300022: REye
+    4300024: TopScrew
+    4300026: LeftEye
+    4300028: RightEye
+    7400000: BotIdle
+    7400002: BotWalk
+    7400004: BotKnockBack
+    9500000: //RootNode
+    13700000: Body
+    13700002: LEye
+    13700004: Mouth
+    13700006: REye
+    13700008: ScrewTop
+    13700010: Shoes
+    13700012: LEye 1
+    13700014: REye 1
+    13700016: LeftEye
+    13700018: RightEye
+    13700020: TopScrew
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 3
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: BotIdle
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 100
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Body
+        weight: 1
+      - path: LEye
+        weight: 1
+      - path: Mouth
+        weight: 1
+      - path: REye
+        weight: 1
+      - path: Root
+        weight: 1
+      - path: Root/Bone02
+        weight: 1
+      - path: Root/Bone02/Bone03
+        weight: 1
+      - path: Root/Bone02/Bone03/Bone04
+        weight: 1
+      - path: Root/Bone02/Bone03/Bone04/LFoot
+        weight: 1
+      - path: Root/Bone02/Bone06
+        weight: 1
+      - path: Root/Bone02/Bone06/Bone05
+        weight: 1
+      - path: Root/Bone02/Bone06/Bone05/RFoot
+        weight: 1
+      - path: Root/Bone02/Spin
+        weight: 1
+      - path: Root/Bone02/Spin/ScrewSpin
+        weight: 1
+      - path: ScrewTop
+        weight: 1
+      - path: Shoes
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: BotWalk
+      takeName: Take 001
+      firstFrame: 203
+      lastFrame: 281
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Body
+        weight: 1
+      - path: LEye
+        weight: 1
+      - path: Mouth
+        weight: 1
+      - path: REye
+        weight: 1
+      - path: Root
+        weight: 1
+      - path: Root/Bone02
+        weight: 1
+      - path: Root/Bone02/Bone03
+        weight: 1
+      - path: Root/Bone02/Bone03/Bone04
+        weight: 1
+      - path: Root/Bone02/Bone03/Bone04/LFoot
+        weight: 1
+      - path: Root/Bone02/Bone06
+        weight: 1
+      - path: Root/Bone02/Bone06/Bone05
+        weight: 1
+      - path: Root/Bone02/Bone06/Bone05/RFoot
+        weight: 1
+      - path: Root/Bone02/Spin
+        weight: 1
+      - path: Root/Bone02/Spin/ScrewSpin
+        weight: 1
+      - path: ScrewTop
+        weight: 1
+      - path: Shoes
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: BotKnockBack
+      takeName: Take 001
+      firstFrame: 291
+      lastFrame: 309
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Body
+        weight: 1
+      - path: LEye
+        weight: 1
+      - path: Mouth
+        weight: 1
+      - path: REye
+        weight: 1
+      - path: Root
+        weight: 1
+      - path: Root/Bone02
+        weight: 1
+      - path: Root/Bone02/Bone03
+        weight: 1
+      - path: Root/Bone02/Bone03/Bone04
+        weight: 1
+      - path: Root/Bone02/Bone03/Bone04/LFoot
+        weight: 1
+      - path: Root/Bone02/Bone06
+        weight: 1
+      - path: Root/Bone02/Bone06/Bone05
+        weight: 1
+      - path: Root/Bone02/Bone06/Bone05/RFoot
+        weight: 1
+      - path: Root/Bone02/Spin
+        weight: 1
+      - path: Root/Bone02/Spin/ScrewSpin
+        weight: 1
+      - path: ScrewTop
+        weight: 1
+      - path: Shoes
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 2
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

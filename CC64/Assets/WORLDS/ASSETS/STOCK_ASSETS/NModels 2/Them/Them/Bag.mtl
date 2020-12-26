@@ -1,0 +1,16 @@
+#
+## Alias OBJ Material File
+# Exported from SketchUp, (c) 2000-2012 Trimble Navigation Limited
+
+newmtl Bag2
+Ka 0.000000 0.000000 0.000000
+Kd 0.427451 0.372549 0.184314
+Ks 0.330000 0.330000 0.330000
+map_Kd MoneyBag/Bag2.png
+
+newmtl Bag1
+Ka 0.000000 0.000000 0.000000
+Kd 0.525490 0.458824 0.231373
+Ks 0.330000 0.330000 0.330000
+map_Kd MoneyBag/Bag1.png
+

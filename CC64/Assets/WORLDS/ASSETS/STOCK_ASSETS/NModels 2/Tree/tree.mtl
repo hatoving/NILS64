@@ -1,0 +1,38 @@
+# Material file for tree.obj
+
+newmtl material_28
+	Ns 0
+	d 1
+	illum 2
+	Kd 1.0 1.0 1.0
+	Ks 0 0 0
+	Ka 0.2 0.2 0.2
+	map_Kd 21AC9071_c.png
+
+newmtl material_29
+	Ns 0
+	d 1
+	illum 2
+	Kd 1.0 1.0 1.0
+	Ks 0 0 0
+	Ka 0.2 0.2 0.2
+	map_Kd 6D055F23_c.png
+
+newmtl material_30
+	Ns 0
+	d 1
+	illum 2
+	Kd 1.0 1.0 1.0
+	Ks 0 0 0
+	Ka 0.2 0.2 0.2
+	map_Kd 6E3BBD12_c.png
+
+newmtl material_31
+	Ns 0
+	d 1
+	illum 2
+	Kd 1.0 1.0 1.0
+	Ks 0 0 0
+	Ka 0.2 0.2 0.2
+	map_Kd 2501D5AE_c.png
+
